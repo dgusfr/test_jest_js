@@ -28,15 +28,15 @@ Este repositório contém testes Jest para uma calculadora simples implementada 
 
 #### Caso de Acerto:
 
-<div style="text-align: center;">
-  <img src="img/test1.png" alt="Descrição da imagem" style="width: 50%;">
-</div>
+<p align="center">
+  <img width="400" src="img/test1.png" alt="Teste 1">
+</p>
 
 #### Caso de Erro:
 
-<div style="text-align: center;">
-  <img src="img/test2.png" alt="Descrição da imagem" style="width: 50%;">
-</div>
+<p align="center">
+  <img width="400" src="img/test2.png" alt="Teste 2">
+</p>
 
 ## Notas
 
