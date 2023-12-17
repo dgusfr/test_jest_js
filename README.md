@@ -29,13 +29,13 @@ Este repositório contém testes Jest para uma calculadora simples implementada 
 #### Caso de Acerto:
 
 <div style="text-align: center;">
-  <img src="img/test1.png.jpg" alt="Descrição da imagem" style="width: 50%;">
+  <img src="img/test1.png" alt="Descrição da imagem" style="width: 50%;">
 </div>
 
 #### Caso de Erro:
 
 <div style="text-align: center;">
-  <img src="img/test2.png.jpg" alt="Descrição da imagem" style="width: 50%;">
+  <img src="img/test2.png" alt="Descrição da imagem" style="width: 50%;">
 </div>
 
 ## Notas
