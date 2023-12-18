@@ -1,9 +1,15 @@
 # Testes Unitários JS com JEST
 
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <div>
+    <img src="img/103283236.png" alt="Descrição da imagem" style="width: 100px; height: auto;">
+    <p>Este repositório contém testes Jest para uma calculadora simples implementada em JavaScript. O módulo da calculadora está localizado no arquivo `src/calculadora.js`. O objetivo principal desses testes é garantir a correção da função `somar` dentro do módulo da calculadora</p>
+  </div>
+</div>
 <div style="display: flex; justify-content: flex-end;">
   <div>
     <img src="caminho_da_imagem.jpg" alt="Descrição da imagem">
-    <p>Este repositório contém testes Jest para uma calculadora simples implementada em JavaScript. O módulo da calculadora está localizado no arquivo `src/calculadora.js`. O objetivo principal desses testes é garantir a correção da função `somar` dentro do módulo da calculadora</p>
+    <p></p>
   </div>
 </div>
 
