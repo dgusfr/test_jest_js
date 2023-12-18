@@ -1,6 +1,9 @@
 # Testes Unitários JS com JEST
 
-Este repositório contém testes Jest para uma calculadora simples implementada em JavaScript. O módulo da calculadora está localizado no arquivo `src/calculadora.js`. O objetivo principal desses testes é garantir a correção da função `somar` dentro do módulo da calculadora.
+<div style="text-align: right;">
+  <img src="img/103283236.png" alt="Descrição da imagem">
+  <p>Este repositório contém testes Jest para uma calculadora simples implementada em JavaScript. O módulo da calculadora está localizado no arquivo `src/calculadora.js`. O objetivo principal desses testes é garantir a correção da função `somar` dentro do módulo da calculadora</p>
+</div>
 
 ## Casos de Teste
 
