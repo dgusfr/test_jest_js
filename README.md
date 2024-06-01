@@ -1,5 +1,7 @@
 # Testes com Jest JS
 
+## Este projeto tem como objetivo a implementação de testes unitários com a biblioteca Jest do JavaScript.
+
 <div align="left">
   <img src="img/logo.png" alt="Descrição da imagem" style="width: 100px; height: auto;">
 </div>
@@ -34,7 +36,7 @@
 
 ![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-## Descrição
+## Descrição detalhada
 
 Este repositório contém testes Jest para uma calculadora simples implementada em JavaScript. O módulo da calculadora está localizado no arquivo `src/calculadora.js`. O objetivo principal desses testes é garantir a correção da função `somar` dentro do módulo da calculadora.
 
